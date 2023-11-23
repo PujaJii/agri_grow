@@ -33,7 +33,7 @@ class LogInScreen extends StatelessWidget {
               SizedBox(
                 height: 50,
               ),
-              Text(' Email ID or Phone',),
+              Text(' Phone',),
               TextFormField(keyboardType: TextInputType.number,
                   controller: numberTEC,
                   style: TextStyle(color: AppColors.black, fontSize: 18),
